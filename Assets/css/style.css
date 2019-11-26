@@ -2,3 +2,16 @@
     border: 2px solid black;
     background-color: pink;
 }
+body{
+    background-image: url("../images/full-bloom.png");
+}
+.white{
+    background-color: white;
+}
+.col-md-8{
+    background-color: white;
+    border: 1px solid grey;
+}
+h1{
+    border-bottom: 1px solid grey;
+}
