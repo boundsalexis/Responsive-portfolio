@@ -24,19 +24,21 @@ h1{
     padding: 10px 0px 0px 5px;
     color: white;
     text-emphasis-style: bold;
+    font-size: 20px;
 }
 .link-group{
-    /* margin: 10px auto; */
+    margin: 15px auto;
 }
 a{
     /* text-align: center;
     margin: auto;
     padding: 20px 10px 10px 5px;*/
+        /* margin: 10px 5px 5px 5px;
+    padding: 20px 0px 0px 5px; */
     border-right: 1px solid #cccccc; 
     width: 100%;
     text-align: center;
-    /* margin: 10px 5px 5px 5px;
-    padding: 20px 0px 0px 5px; */
+    /* margin: 200px 0px 0px 0px; */
     padding: 10px 2.5px 0px 0px;
     color: #cccccc;
     text-emphasis-style: bold;
@@ -55,5 +57,9 @@ a{
     /* .link-group{
         margin: 5px 50px 5px 55px;
     } */
-    
+    a{
+        border: 0;
+        padding:5%;
+        margin: 5px;
+    }
 }
