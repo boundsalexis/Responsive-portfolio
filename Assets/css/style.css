@@ -15,7 +15,6 @@ body{
 }
 h1{
     border-bottom: 1px solid #cccccc;
-    /* padding: 10px 10px 15px 5px; */
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -30,15 +29,9 @@ h1{
     margin: 15px auto;
 }
 a{
-    /* text-align: center;
-    margin: auto;
-    padding: 20px 10px 10px 5px;*/
-        /* margin: 10px 5px 5px 5px;
-    padding: 20px 0px 0px 5px; */
     border-right: 1px solid #cccccc; 
     width: 100%;
     text-align: center;
-    /* margin: 200px 0px 0px 0px; */
     padding: 10px 2.5px 0px 0px;
     color: #cccccc;
     text-emphasis-style: bold;
@@ -48,15 +41,6 @@ a{
 }
 
 @media only screen and (max-width: 650px) {
-    /* #bar{
-        border-bottom: 1px solid grey;
-    } */
-    /* .white{
-        height: 85px;
-    } */
-    /* .link-group{
-        margin: 5px 50px 5px 55px;
-    } */
     a{
         border: 0;
         padding:5%;
