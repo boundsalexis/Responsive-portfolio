@@ -69,3 +69,17 @@ a{
         margin: 5px;
     }
 }
+footer{
+    position: sticky;
+    height: 50px;
+    width:100%;
+    background-color: grey;
+    border-top: 5px solid #4aaaa5;
+    color:white;
+    text-align: center;
+    font-size:xx-small;
+    padding: 10px;
+}
+.wrapper {
+    min-height: calc(100vh - 50px);
+}
