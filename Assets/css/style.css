@@ -39,10 +39,24 @@ a{
 .content{
     padding: 20px 0px 20px 10px;
 }
-.proj-box{
-    width: 50px;
-    height: 50px;
-}
+.portfolio-page{
+    width: 200px;
+    height: 200px;
+    position: relative; 
+    /* background-color: black;  */
+    margin: 0 auto;
+} 
+.box{ 
+    position: absolute; 
+    top: 50px;
+    left: 50px;
+    width: 150px;
+    height: 150px;
+    background-color: pink;
+    /* padding: 50px; */
+    /* margin: 0 auto;  */
+    z-index: 10;
+} 
 @media only screen and (max-width: 650px) {
     a{
         border: 0;
