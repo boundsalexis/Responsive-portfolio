@@ -43,7 +43,6 @@ a{
     width: 200px;
     height: 200px;
     position: relative; 
-    /* background-color: black;  */
     margin: 0 auto;
 } 
 .box{ 
@@ -53,10 +52,16 @@ a{
     width: 150px;
     height: 150px;
     background-color: pink;
-    /* padding: 50px; */
-    /* margin: 0 auto;  */
     z-index: 10;
 } 
+.label{
+    position: absolute;
+    top: 100px;
+    padding: 5px 10px 5px 30px;
+    width: 150px;
+    height: 25px;
+    background-color: aqua;
+}
 @media only screen and (max-width: 650px) {
     a{
         border: 0;
