@@ -3,12 +3,12 @@
 This site provides an about me, a collection of projects, and a way to contact me.
 
 ## Images
-![About Me](assets/images/aboutmelg.png)
-![Contact](assets/images/contactlg.png)
-![Portfolio](assets/images/portfoliomd.png)
-![About Me](assets/images/aboutmesm.png)
-![Contact](assets/images/contactsm.png)
-![Portfolio](assets/images/portfoliosm.png)
+![About Me](Assets/images/aboutmelg.png)
+![Contact](Assets/images/contactlg.png)
+![Portfolio](Assets/images/portfoliomd.png)
+![About Me](Assets/images/aboutmesm.png)
+![Contact](Assets/images/contactsm.png)
+![Portfolio](Assets/images/portfoliosm.png)
 
 ## Built With
 
@@ -16,7 +16,8 @@ This site provides an about me, a collection of projects, and a way to contact m
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Difficulties
-* the most difficult part was keeping track of all the </divs>
+* I got very comfortable positioning divs within divs
+* Before making this I did not understand how using dev tools in the browser could be useful, I am now very comfortable using them and love how simple it can make the testing process. 
 
 
 ## Deployed Link
